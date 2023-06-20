@@ -17,7 +17,7 @@ export default function App() {
       <div className="container">
         <Tasklist title="Pendente" />
         <Tasklist title="Fazendo" />
-        <Tasklist title="Completas" />
+        <Tasklist title="Completas1" />
       </div>
     </div>
   );
